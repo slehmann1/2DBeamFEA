@@ -2,7 +2,7 @@
 # Finite Element Solver For 2D Planar Beam Meshes
 #### A simplified FEA solver for 2D planar beam meshes
 <p align="center">
-  <img src="https://github.com/slehmann1/2DBeamFEA/blob/master/res/DisplacementPlot.PNG?raw=true" alt="Displacement Plot"/>
+  <img src="https://github.com/slehmann1/2DBeamFEA/blob/main/res/DisplacementPlot.PNG?raw=true" alt="Displacement Plot"/>
 </p>
 
 ### Overview
@@ -12,7 +12,7 @@ Currently the only boundary condition supported is fixed nodes. It would be easy
 ### Verification
 Results verified to within 0.5% against Abaqus, as shown below.  
 <p align="center">
-  <img src="https://github.com/slehmann1/2DBeamFEA/blob/master/res/AbaqusReference.PNG?raw=true" alt="Abaqus Displacement Plot"/>
+  <img src="https://github.com/slehmann1/2DBeamFEA/blob/main/res/AbaqusReference.png?raw=true" alt="Abaqus Displacement Plot"/>
 </p>
 
 #### Dependencies
